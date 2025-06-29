@@ -53,7 +53,7 @@ class ElasticSearcher:
 ```
 
 
-This tutorial contains all the necessary steps for creating a semantic search index - I highly recommend checking it out! Once the indices are created, simplify modify the `elastic.search` call in `tools` to call the specific index name. 
+This [tutorial](https://www.elastic.co/docs/solutions/search/semantic-search/semantic-search-semantic-text) contains all the necessary steps for creating a semantic search index - I highly recommend checking it out! Once the indices are created, simplify modify the `elastic.search` call in `tools` to call the specific index name. 
 
 ```
 tools = [
