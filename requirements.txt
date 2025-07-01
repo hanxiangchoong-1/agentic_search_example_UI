@@ -1,0 +1,10 @@
+streamlit==1.37.1
+beautifulsoup4==4.12.3
+google-api-core==2.24.1
+google-api-python-client==2.163.0
+google-auth==2.38.0
+google-auth-httplib2==0.2.0
+google-cloud-vision==3.9.0
+googleapis-common-protos==1.65.0
+elasticsearch==8.17.1
+langchain==0.3.15

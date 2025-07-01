@@ -75,6 +75,10 @@ tools = [
 ]
 ```
 
+To install dependencies, set up a [virtual env](https://docs.python.org/3/library/venv.html), then running `pip install -r requirements.txt` to install dependencies. 
+
+Once set up, navigate to the project folder and use the command `streamlit run agentic_tooling.py` to start the UI. 
+
 
 ## Ingestion and Processing 
 
